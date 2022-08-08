@@ -1,6 +1,5 @@
 
-
-![Chikn](https://user-images.githubusercontent.com/68491820/183402878-04c87ecf-d35f-4529-b473-87953734fdda.jpeg | width=100px)
+<img src="(https://user-images.githubusercontent.com/68491820/183402878-04c87ecf-d35f-4529-b473-87953734fdda.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 # Tim Growth Mindset
 
