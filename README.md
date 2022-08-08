@@ -23,8 +23,13 @@ Hi, my name is Tim. Follow me on my journey as i turn my life upside down, leavi
 
 There is more to life than just doing the same thing over and over. Learning is the key to expand your mind. If you put your mind to it you will succeed. Failure is not an option. At the end of the day you get what you put in. 
 
+
+
 ```
-1. Send it 
+Contact me 
+
+1. Twitter 
+2. Gmail 
 
 ```
 
