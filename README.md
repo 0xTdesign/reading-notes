@@ -4,7 +4,7 @@
 
 # __Welcome to my Github__
 
-<a href="https://github.com/jimbobdxb/reading-notes/"></a>
+Click []([[quora.com/profile/Ashish-Kulkarni-100](https://github.com/jimbobdxb/reading-notes)
 
 Hi, my name is Tim. Follow me on my journey as i turn my life upside down, leaving everything i know behind to follow my passion, coding. Look around and enjoy and contact me if you like.
 
@@ -29,7 +29,8 @@ There is more to life than just doing the same thing over and over. Learning is 
 Contact me 
 
 1. Twitter 
-2. Gmail 
+2. Discord
+3. Telegram
 
 ```
 
