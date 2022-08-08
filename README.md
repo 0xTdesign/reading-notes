@@ -4,6 +4,8 @@
 
 # __Welcome to my Github__
 
+<a href="https://github.com/jimbobdxb/reading-notes/"></a>
+
 Hi, my name is Tim. Follow me on my journey as i turn my life upside down, leaving everything i know behind to follow my passion, coding. Look around and enjoy and contact me if you like.
 
 ## Below is a list of my growth mindsets.
