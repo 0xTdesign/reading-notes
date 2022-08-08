@@ -1,6 +1,6 @@
 
-[https://www.google.com/search?q=chikn&sxsrf=ALiCzsYXeKu30E45LImp2aCLJbQwvuKQww:1659956114721&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj20720irf5AhXYgVwKHYL_CQwQ_AUoAnoECAMQBA&biw=1680&bih=870&dpr=2#imgrc=5sjp89rUdKegSM]url
 
+![Chikn](https://user-images.githubusercontent.com/68491820/183402878-04c87ecf-d35f-4529-b473-87953734fdda.jpeg)
 #Tim Growth Mindset
 
 ## **bold** Hi My name is Tim, 
@@ -14,7 +14,5 @@ Below is a list of what I think are the best growth mindsets.
  - Never think that you can't do something. 
  - Time and patince is all you need
 '''
-
-
 
 
