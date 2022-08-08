@@ -1,5 +1,7 @@
 
-<img src="0c88d9a5a734f6ea56d20d6b90e3e4c5a465bdc5.jpeg" width="600" height="600" style="display: block; margin: 0 auto" />
+<img src="0c88d9a5a734f6ea56d20d6b90e3e4c5a465bdc5.jpeg" width="600" height="600"/>
+
+![chicken](0c88d9a5a734f6ea56d20d6b90e3e4c5a465bdc5.jpeg | width=50)
 
 
 # **Tim Growth Mindset**
