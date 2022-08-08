@@ -1,6 +1,6 @@
 
 
-![Chikn](https://user-images.githubusercontent.com/68491820/183402878-04c87ecf-d35f-4529-b473-87953734fdda.jpeg width=100))
+![Chikn](https://user-images.githubusercontent.com/68491820/183402878-04c87ecf-d35f-4529-b473-87953734fdda.jpeg | width=100))
 
 # Tim Growth Mindset
 
