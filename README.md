@@ -4,9 +4,10 @@ You can use the [editor on GitHub](https://github.com/jimbobdxb/reading-notes/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Tim Growth Mindset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - Always think before you act. 
+ - 
 
 ```markdown
 Syntax highlighted code block
