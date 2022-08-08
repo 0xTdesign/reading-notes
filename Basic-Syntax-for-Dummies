@@ -1,7 +1,7 @@
 
-# Hi Welcoem to Basic Syntax for Dummies.
+# Hi Welcome to Basic Syntax for Dummies.
 
-#### Below you I will highlight a few of the basic syntax that can be used. 
+#### Below I will highlight a few of the basic syntax that can be used. 
 
 
 # Header 1 
@@ -13,8 +13,33 @@ As you can see this is a header. There are 6 header sizes in total 1 being the b
 As you can see this is the smalletest out of the headers. 
 
 
-#### Paragraph
+### Paragraph
 
 When using Github Pages this is really easy since all you need to do is press Enter/Return and it will show the text as a paragraph. Not like HTML were you need to add other code to get it to work. 
+
+
+**BOLD** __BOLD__
+
+This is how you would make text bold. 
+
+*Italic*Font*
+
+This is how you would make your font italic.
+
+### List items
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+
+This is what a list item. Can be numbers,bullet points etc.
+
+
+
+
+
+
 
 
