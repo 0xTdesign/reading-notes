@@ -1,8 +1,8 @@
-##Hi My name is Tim
+#Tim Growth Mindset
+
+## **bold** Hi **bold** My name is Tim
 
 <P>Have a look around and enjoy.</p>
-
-#Tim Growth Mindset
 
 ''' markdown
  - Always think before you act. 
