@@ -1,10 +1,6 @@
 
-<img src="0c88d9a5a734f6ea56d20d6b90e3e4c5a465bdc5.jpeg" width="600" height="600" />
+<img src="0c88d9a5a734f6ea56d20d6b90e3e4c5a465bdc5.jpeg" width="600" height="600" style="display: block; margin: 0 auto" />
 
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
-[https://www.google.com/search?q=google+images&sxsrf=ALiCzsafstx6RO1KU2u2zdO4273gZ9taQA:1659961144209&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiAst2Snbf5AhUGacAKHQpKB2kQ_AUoAXoECAEQAw&biw=1680&bih=870&dpr=2#imgrc=d-Ji7qscokYdVM]
 
 # **Tim Growth Mindset**
 
@@ -29,5 +25,3 @@ There is more to life than just doing the same thing over and over. Learning is 
 
 
 
-
-<img src="0c88d9a5a734f6ea56d20d6b90e3e4c5a465bdc5.jpeg" width="600" height="600" />
