@@ -6,7 +6,7 @@
 
 Click []([[quora.com/profile/Ashish-Kulkarni-100](https://github.com/jimbobdxb/reading-notes)
 
-Hi, my name is Tim. Follow me on my journey as i turn my life upside down, leaving everything i know behind to follow my passion, coding. Look around and enjoy and contact me if you like.
+& Hi, my name is Tim. Follow me on my journey as i turn my life upside down, leaving everything i know behind to follow my passion, coding. Look around and enjoy and contact me if you like.
 
 ## Below is a list of my growth mindsets.
 
