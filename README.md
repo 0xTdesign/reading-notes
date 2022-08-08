@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my page 
 
-You can use the [editor on GitHub](https://github.com/jimbobdxb/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# **Bold**  Tim Growth Mindset
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Tim Growth Mindset
+''' 
 
  - Always think before you act. 
+ 
+ - 
+
+
+ - Always think before you act. 
+ 
  - 
 
 ```markdown
