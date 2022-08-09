@@ -23,7 +23,7 @@ When using Github Pages this is really easy since all you need to do is press En
 
 This is how you would make text bold. 
 
-*Italic*Font*
+*Italic*Font
 
 This is how you would make your font italic.
 
