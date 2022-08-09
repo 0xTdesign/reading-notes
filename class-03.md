@@ -1,6 +1,5 @@
 # Class 3 - Git
 
-## 
 
 
 ## What is Github? 
