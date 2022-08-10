@@ -38,5 +38,5 @@ Width:100px;
 
 
 ```
-For more information please click the link:![Link](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+For more information please click the link:[Link](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
