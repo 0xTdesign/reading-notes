@@ -67,3 +67,10 @@ To link CSS to HTML you will need to add a link to youe HTML page. Below is the 
 ```
 
 Here is more information regarding CSS Link:[CSS link](https://www.w3schools.com/css/css_howto.asp)
+
+
+
+Here is a link to change colors: [Css color change](https://www.w3schools.com/cssref/pr_text_color.asp)
+
+
+
