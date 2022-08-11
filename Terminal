@@ -1,0 +1,36 @@
+```
+Terminal Notes
+
+Pwd - project
+
+Cd ..    - back
+
+Ls - list folders
+
+~  - Back to main user
+
+Cd - change directory 
+
+Mkdir  NAME - make a new folder
+
+
+Code . - Open vis code
+
+ git status - Check branch 
+
+Git add .
+
+Git commit  -m “update”
+
+-m - Message 
+
+git commit -m "update readme"
+
+Add, commit , Push
+
+Git add . - Everything 
+
+Git remote -v - check 
+
+
+```
