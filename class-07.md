@@ -29,3 +29,28 @@ document.write(message);
 ```
 
 Here is a link for more information: [Control flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+
+
+### JavaScript Functions 
+
+A JavaScript function is executed when "something" invokes it (calls it).
+
+```
+let myFunction() { 
+alert ("Hello World")
+}
+
+```
+
+# JavaScript Operators
+
+Operators allows you to assign a value to anything which you can then use to to do arrange of task. Below is an exmaple of how it can be used. 
+
+```
+let x = 5;         // assign the value 5 to x
+let y = 2;         // assign the value 2 to y
+let z = x + y;     // assign the value 7 to z (5 + 2)
+```
+
+
+
