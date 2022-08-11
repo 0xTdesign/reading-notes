@@ -50,7 +50,10 @@ Operators allows you to assign a value to anything which you can then use to to 
 let x = 5;         // assign the value 5 to x
 let y = 2;         // assign the value 2 to y
 let z = x + y;     // assign the value 7 to z (5 + 2)
+
 ```
+
+As you can see the above commands have been assigned to a letter which can then be used in a string to add them together. 
 
 
 
