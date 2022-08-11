@@ -31,7 +31,17 @@ document.write(message);
 Here is a link for more information: [Control flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
 
 
-### JavaScript Functions 
+### Function syntax
+
+
+Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
+
+The code to be executed, by the function, is placed inside curly brackets: {}
+
+
+
+
+#### JavaScript Functions 
 
 A JavaScript function is executed when "something" invokes it (calls it).
 
@@ -42,7 +52,7 @@ alert ("Hello World")
 
 ```
 
-# JavaScript Operators
+##### JavaScript Operators
 
 Operators allows you to assign a value to anything which you can then use to to do arrange of task. Below is an exmaple of how it can be used. 
 
