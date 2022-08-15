@@ -27,3 +27,27 @@ What happens in steps
 
 ##  HTML, CSS, and JS files
 
+Browsers start by parse the HTML file. It will look for all any <Link> and <script> elements and parase those files. While the broswer is checking all the HTML it will also be sending requests to check the other files that are contained in the HTML just as the CSS and JS files. This allows the browser to geneerate an in-memory CSSom structure from the Css files creeating a DOM tree. 
+ 
+ 
+ 
+ ### How to find images for you webstie? 
+ 
+ There are a few ways that you can add images to your website. But you need to be careful of Copyright. This can easily be done by using the Google license filter. This will help you only look for images that can be used. Once you have found the image that you would like to use for your website you can either copy the image link by right clicking and selecting the Copy Image address. Or another way is to right click and save the image file to your computer Desktop and then dragging the file into your VScode and adding it that way. 
+
+
+#### String vs a Number in Javascript? 
+
+ String ``` Let Name = 'Tim'; ```
+ 
+A string is a sequence of text that is known as a string. You can tell that it is a string by the quote mares aorund the number or text.
+ 
+ 
+ Number ``` Let cars = 20; ```
+ 
+ As you can see this is a numner it does not have quotes around it. This shows that it is a number and not a String. If it had quotes around it then it would be a String. 
+ 
+ 
+ 
+ 
+ 
