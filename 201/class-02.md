@@ -107,7 +107,23 @@ What is the difference between the logical operator && and ||?
   
  The difference between "&&" and "||" is the "&&" will need all to come back "True" for the whole expression to return ```True```and "||" only needs one or more to come back ``` true ``` for the whole expression to come back ```true```
   
+
   
+  ## Things I want to know more about
+  
+  
+Use if to specify a block of code to be executed, if a specified condition is true
+Use else to specify a block of code to be executed, if the same condition is false
+Use else if to specify a new condition to test, if the first condition is false
+Use switch to select one of many blocks of code to be executed
+  
+  
+- Variables
+- Operators
+- Transform functions
+
+  
+
   
   
   
