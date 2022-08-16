@@ -83,10 +83,26 @@ List 4 types of JavaScript operators.
   
   
  An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+ 
+ An IF Statement checks a (Condition) and if it evaluates to True then the code will block will execute.
+ 
 What is the use of an else if?
+ 
+The use of an "Else If" is to test a new condition if the ones above are false.
+ 
+ 
 List 3 different types of comparison operators.
+
+ === This is to check if the value is lee or greater than each other 
+ 
+ < > This is used to check if one value is less or greater than each other 
+ 
+ <= => This is to check if the value is less or greater than each other. 
+ 
+ 
 What is the difference between the logical operator && and ||?
   
+ The difference between "&&" and "||" is the "&&" will need all to come back "True" for the whole expression to return ```True```
   
   
   
