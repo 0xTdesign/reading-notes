@@ -88,7 +88,6 @@ Read the code below and evaluate the last expression and explain what the result
 
 ```
 
-(10 + False) + Dog 
 
 Describe a real world example of when a conditional statement should be used in a JavaScript program.
 Give an example of when a Loop is useful in JavaScript.
