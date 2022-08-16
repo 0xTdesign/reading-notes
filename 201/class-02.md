@@ -102,7 +102,7 @@ List 3 different types of comparison operators.
  
 What is the difference between the logical operator && and ||?
   
- The difference between "&&" and "||" is the "&&" will need all to come back "True" for the whole expression to return ```True```
+ The difference between "&&" and "||" is the "&&" will need all to come back "True" for the whole expression to return ```True```and "||" only needs one or more to come back ``` true ``` for the whole expression to come back ```true```
   
   
   
