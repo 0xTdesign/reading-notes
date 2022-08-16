@@ -74,7 +74,7 @@ You can name a variable nearly anything. There are a few names that you cant use
 A section tag is used the same way as a header or footer tag would be used for any document that you need. The Article tag is used for self contained content. 
 
   
-What Elements does a “typical” website include?
+##### What Elements does a “typical” website include?
 
 ```
 <!DOCTYPE html>
@@ -94,7 +94,7 @@ What Elements does a “typical” website include?
  This is how a website will look when you open a blank HTML page. There are many tags that you can use. 
  
 
-How does metadata influence Search Engine Optimization?
+##### How does metadata influence Search Engine Optimization?
 
  When designing a website you will want to give you website a name. This name then will be used for people to help find your website. So its best to pick a name that if people search it has a higher chance of being at the top of the page. This is a good way to have people find your page faster and easier. 
  
@@ -114,7 +114,7 @@ How is the <meta> HTML tag used when specifying metadata?
  
  ```
  
-What is the first step to designing a Website?
+##### What is the first step to designing a Website?
  
  There are few steps that need to be done before you even start with a wireframe. The most important is reasearch. Understand the audiance that will be directed to your website. 
  
@@ -134,8 +134,22 @@ What is the first step to designing a Website?
  
  They allow us to contain content into sections on the website that we can then use to easy display them around the page. 
  
+Describe 2 things that require JavaScript in the Browser?
+
  
  
+ 
+How can you add JavaScript to an HTML document?
+ 
+ At the bottom of HTML file you will add a Script tag and then Src and the file name. Below is an example. 
+ 
+ ```
+<footer></footer>
+<script src="app.js"> </script>
+</body>
+</html>
+
+ ```
  
  
  
