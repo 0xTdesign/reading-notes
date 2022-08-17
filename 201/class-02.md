@@ -9,8 +9,7 @@ HTML,CSS, and Javascript are the key components that all work together that help
 
 ### How many levels of headings are there in HTML?
 
-There are 6 levels of Headings in HTML.
-
+There are 6 levels of Headings in HTML. But only H1 is used 1 per page. 
 
 ### What are some uses for the <sup> and <sub> elements?
 
