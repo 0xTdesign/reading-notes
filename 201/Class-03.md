@@ -85,9 +85,20 @@ Read the code below and evaluate the last expression and explain what the result
 
  // evaluate this
  (a + c) + b;
+ 
+ 10Dog
 
 ```
 
 
 Describe a real world example of when a conditional statement should be used in a JavaScript program.
 Give an example of when a Loop is useful in JavaScript.
+
+
+
+
+Array notes
+// push() - adds to end of array
+// pop() - removes from end of array
+// unshift() - adds to start of array
+// shift() - removes from start of array
