@@ -94,6 +94,14 @@ Read the code below and evaluate the last expression and explain what the result
 Describe a real world example of when a conditional statement should be used in a JavaScript program.
 Give an example of when a Loop is useful in JavaScript.
 
+If today was Monday then Yesterday was Sunday. This is a conditional statement 
+
+If you have a bunch of movies in a playlist it will keep on looping until the last one is played. 
+
+if - only ask once
+while loop - until its true
+for loop - check as many times as you set
+
 
 
 
