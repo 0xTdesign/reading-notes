@@ -43,7 +43,7 @@ true
 for ( let i = 0; i < 10; i++)
 
 
-
+arry.length
 let arr = ["a" , 2, false,{}, "I am last"]
 console.log(arr[i])
 
