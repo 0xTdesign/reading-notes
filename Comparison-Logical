@@ -1,0 +1,43 @@
+// comparison Operators
+
+a == b // loose equal to
+a === b // strict equal to 
+a != b // not equal to 
+a !== b // Stict not equal to
+a > b // greater than
+a < b // less than
+a >= b // greater than equal to
+a <= b // less than or equal to
+
+
+// logical operators
+
+a && b // is a AND b true
+a || b // is a OR b true
+!a // NOT - inverts the boolean value of a
+
+
+a = 'tim'
+!a would be False 
+
+boolean = True or False 
+
+Evaluating Comparisons 
+
+( Operand - Oprator - Operand 
+
+( 1 === 2 ) 
+
+
+// Type coercion 
+
+'10' > 1 
+True
+
+"5" == 5
+true
+
+
+
+
+
