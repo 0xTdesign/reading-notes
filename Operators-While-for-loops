@@ -56,5 +56,35 @@ console.log(arr[i])
 
 ```
 
+```
+let answers = ["a","b","c"];
+let guess;
+
+let attempts = 2;
+
+// loop through until the attempts run out
+while(attempts > 0) {
+
+  // at the start of each loop, make them guess
+  guess = prompt("Guess the answer");
+
+  // loop though the correct answers
+  for(let i = 0; i < answers.length; i++) {
+    // check if the guess is one of the answer
+    if(guess === answers[i]) {
+      //if it is, tell them, remove attempts and stop the for loop
+      alert("Thats right!");
+      attempts = 0;
+      hasWon = true;
+      break;
+    }
+  }
+
+  // take one attempt away each time
+  attempts--;
+}
+
+```
+
 
 
