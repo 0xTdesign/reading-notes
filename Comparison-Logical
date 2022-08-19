@@ -1,3 +1,5 @@
+```
+
 // comparison Operators
 
 a == b // loose equal to
@@ -47,7 +49,12 @@ arry.length
 let arr = ["a" , 2, false,{}, "I am last"]
 console.log(arr[i])
 
+let arr = ["a" , 2, false, {}, "i am last"];
 
+for (let i = 0 i < arr.length: i++){
+console.log(arr[i])
+
+```
 
 
 
