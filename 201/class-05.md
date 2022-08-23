@@ -46,3 +46,22 @@ What image type would you use to display a screenshot on your website and why?
 I would use a Jpeg to display a screenshot on my website. The reason is becasue of the size of the file is smaller than using a png. 
 
 
+
+Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
+
+
+
+Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
+
+
+What should you consider when choosing fonts for an HTML document?
+
+
+
+What do font-size, font-weight, and font-style do to HTML text elements?
+
+
+
+Describe two ways you could add spacing around the characters displayed in an h1 element.
+
+
