@@ -1,5 +1,9 @@
 # Class 8
 
+[Layout](https://web.dev/learn/css/layout/)
+[Flexbox](https://web.dev/learn/css/flexbox/)
+[Flexbox-1](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+
 
 ## Flexbox is designed for one-dimensional content. Explain what this means.
 
@@ -15,12 +19,16 @@ When using flex-direction property and the cross axis run prependicular. If you 
 
 #### How can using certain properties of flexbox negatively impact accessibility?
 
-
+The main drawback to using flexbox is the performance issues. When using flexbox you can increase your page loading time if you have a large project. Also some older browsers may not support it.
 
 ##### What are some advantages of using flexbox over float?
 
-
-
+The biggest advantage of using Flexbox over float is responsive and mobile-frendly. Flex is a very powerful tool and allows the user to create fully responsive websites that will work on all screen sizes and devices. You can also easily change the order of elements on the webpage witout making changes to your html.  
 
 
 ###### How does this topic connect with your long term goals?
+
+By understanding how flexbox works it will allow me to create responsive and clean looking websites. It gives me lots of control over the general layout of the whole website and how I want to display all the content.
+
+
+
