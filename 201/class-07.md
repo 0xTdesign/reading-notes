@@ -52,8 +52,33 @@ When you use this. in an object it is searching for the name inside the object. 
 ###### Explain prototypes and inheritance via an analogy from your previous work experience.
 NOTE: This is a very common front end developer interview question
 
+Prototypes allowed me to shorten down my code by adding all of my data to a constructor and use methods and adding the properties into objects. I put all my data into constructors and then used prototype to easy access all of my data. 
+
+By using a prototype you can easily add data, update date without having to rewrite lots of code. You can just use the same constructor. This makes code a lot shorter and reusalbe 
 
 
+I used this in my recent project. Below is an example of how I have used it on my code. I have used a prototype to inherit the data from the constructor.
 
 
+An example below:
+
+
+```
+
+function CookieStand(name, minCust, maxCust, avgCookieSale) {
+  this.name = name;
+  this.minCust = minCust;
+  this.maxCust = maxCust;
+  this.avgCookieSale = avgCookieSale;
+  this.custEachHour = [];
+  this.cookiesSoldEachHour = [];
+  this.totalDailyCookies = 0;
+}
+CookieStand.prototype.calcCustomersEachHour = function () {
+  for (let i = 0; i < hours.length; i++) {
+    this.custEachHour.push(randomNum(this.minCust, this.maxCust));
+  }
+};
+
+```
 
