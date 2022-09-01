@@ -52,7 +52,7 @@ When you use this. in an object it is searching for the name inside the object. 
 ###### Explain prototypes and inheritance via an analogy from your previous work experience.
 NOTE: This is a very common front end developer interview question
 
-every function in JavaScript has a prototype
+
 
 
 
