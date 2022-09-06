@@ -30,7 +30,9 @@ The getcontext() method reuturns a render context object. It provides the 2D ren
 
 ###### What are some advantages to displaying data via a chart over a table?
   
-  
+  Charts give a qucik and easy outlook at the data. By displaying data in a chart it gives the user a fast over look at all the data.  
 
 
 ###### How could Chart.js aid your previously created applications visually?
+  
+  By using chart.js I can display all my data in a bar chart to give a better visual look and understanding of the data to teh user. By using Chart.js I can have rows on the bar chart showing the amount clicks, Views and names. 
