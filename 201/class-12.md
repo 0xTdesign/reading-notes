@@ -19,7 +19,7 @@ The getcontext() method reuturns a render context object. It provides the 2D ren
 
 #### What is Chart.js and how it can be brought into your project?
   
-  Chart.js is a Javascript libary for making HTML based charts. It comes with a built in libraries. You can install chart.js by using the ``` npm install chart.js`` in the terminal. This will you to use it on your project.
+  Chart.js is a Javascript libary for making HTML based charts. It comes with a built in libraries. You can install chart.js by using the ``` npm install chart.js`` in the terminal. This will you to use it on your project. You then need to use a script tag to with a SRC like below. ``` <script src="path/to/chartjs/dist/chart.js"></script> ```
 
 #### List 3 different Chart types you can create using Chart.js.
   
@@ -29,6 +29,8 @@ The getcontext() method reuturns a render context object. It provides the 2D ren
 
 
 ###### What are some advantages to displaying data via a chart over a table?
+  
+  
 
 
 ###### How could Chart.js aid your previously created applications visually?
