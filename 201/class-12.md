@@ -4,6 +4,9 @@
 
 [Install and setup guide for chart.js](https://www.chartjs.org/docs/latest/)
 
+[Chart styles](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+[styles](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+
 
 ## What does the <canvas> allow a developer to acheive?
   
