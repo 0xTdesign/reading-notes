@@ -1,6 +1,10 @@
 # Class 12 
 
 [Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
+
+[Install and setup guide for chart.js](https://www.chartjs.org/docs/latest/)
+
+
 ## What does the <canvas> allow a developer to acheive?
   
   ```<cancas>``` Allows the developer to draw 2D graphics using Javascript. the Element requires Width and Height to specify the size. There are Fill and Strokes as well. These are the two basic 2D drawing context. FILLS fills in the shapes and STROKE adds Colour to the edges. 
