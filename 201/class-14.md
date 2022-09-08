@@ -35,6 +35,6 @@ Animations target key points of a transition upon different keyframes giving you
 Transitions are much simpler and therefore faster to code. They're great for giving websites a better overall look and feel.
 
 
-####### How this topic fit in with your long-term goals?
+###### How this topic fit in with your long-term goals?
 
 By using transitions and animations it allows me to create lots of cool elements on my websites making them stand out for others. I will try lots of different ones to find the ones that I think suite the needs of the website I'm trying to create.
