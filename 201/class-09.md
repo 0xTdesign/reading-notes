@@ -12,7 +12,7 @@ List 5 form elements and explain their importance.
 
 ```
 
-<lable> - For usability and accessibility, we include an explicit label for each form control
+<label> - For usability and accessibility, we include an explicit label for each form control
 <form> - This element formally defines a form.
 <input> - Represents a typed data field usually associated with a control that allows users to edit its value
 <textarea> - Represents a multi-line plain-text editing control
@@ -35,7 +35,12 @@ When using the AddEventListener() we specify two parameters. The NAME of the eve
 
 Describe the event object. Why is the target within the event object useful?
 
-
+An Event object is automatically passed to an events handlers to provide extra feature and imformation. Target is a propert of an Event which has a reference to the element which the event was fired. The Target property of the event object is always the reference to the element. It is necessary to have the target property when an event is fired. It will access the properties of the element and will modify some properties of the element. 
 
 
 What is the difference between event bubbling and event capturing?
+
+Capturing phase checks to see if the elements outer-ancestor has a click event handler on it for the capturing phase and if so it runs it. THen it moves on to the next element inside the HTML and does the same thing. And Bubbling phase does the exact opposite of the capturing phase. The browser checks the parent of the clicked event handler registered on it and runs it. Then it moves on the to the next immediate ancestor element.
+
+
+
