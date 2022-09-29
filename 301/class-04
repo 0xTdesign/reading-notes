@@ -34,8 +34,7 @@ if(x===y){
 ```
 let x = true
 
-x = true ?: false 
-console.log(x)
+test = x === y ? "true": "false" 
 
 
 ```
