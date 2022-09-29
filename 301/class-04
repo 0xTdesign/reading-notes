@@ -32,9 +32,10 @@ if(x===y){
 ```
 
 ```
-let x = true
+let x = true;
+let y - false;
 
-test = x === y ? "true": "false" 
+let test = x === y ? "true": "false" 
 
 
 ```
