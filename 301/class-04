@@ -8,7 +8,7 @@ Controlld components are those in which forms data is handled by the components 
 
 ## Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
 
-When the user enters or changes the state the components will re-render. Meaning the output will change according to the new values.
+When the user enters or changes the state the components will re-render. It changes on every key stroke instant.
 
 ## How do we target what the user is entering if we have an event handler on an input field?
 
